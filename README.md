@@ -6,4 +6,4 @@ Normalized easing functions. See standalone project repository [`Unity.Library.e
 
 ## License
 
-> Licensed under the [Open Source MIT license](http://en.wikipedia.org/wiki/MIT_License).
+> Licensed under the [MIT license](http://en.wikipedia.org/wiki/MIT_License).
