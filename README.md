@@ -1,4 +1,5 @@
 # eppz.Easing
+> part of [**Unity.Library.eppz**](https://github.com/eppz/Unity.Library.eppz)
 
 * `Easing.cs`
 
